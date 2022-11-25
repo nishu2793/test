@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gGWhUxkIGfxk+EhcQoGu5Ykt5jRsM9O1bmKjqNvywew=",
+  "Source": "DotNetCore_AWS_Demo",
+  "BasePath": "_content/DotNetCore_AWS_Demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
